@@ -1,1 +1,3 @@
 Hello World
+eric was here
+Line 3: this is just a refresher for how to commit and also for writing better comments
